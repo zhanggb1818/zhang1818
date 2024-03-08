@@ -21,7 +21,7 @@ func StatRandomNumbers(numRands int) (int, int) {
 	}
 	return a, b // 此函数返回两个结果
 }
-// main函数，或主函数，是一个程序的入口函数。
+// main函数，或主函数，是一个程序的入口函数。//
 func main() {
 	var num = 100
 	// 调用上面声明的StatRandomNumbers函数，
